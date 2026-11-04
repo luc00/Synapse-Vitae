@@ -1,0 +1,6 @@
+{
+  "name": "Synapse & Vitae - Enciclopedia Integratori, Sinergie & Promemoria",
+  "description": "Guida clinica e scientifica a tutti gli integratori e supplementi: sinergie ottimali, incompatibilità da evitare, orari ideali di assunzione, cicli e pause per la salute del fegato, verificatore interattivo e promemoria con timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
